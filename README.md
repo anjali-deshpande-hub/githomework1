@@ -1,1 +1,1 @@
-# Git Assignment Task 1
+# Git Homework Task 1 and Task 2
